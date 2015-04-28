@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class destroyText : MonoBehaviour {
+public class destroyTextThree : MonoBehaviour {
 	
 	float gameTime;
 	
