@@ -22,3 +22,4 @@ public class unicycleAnimationPlayerTwo : MonoBehaviour {
 			speed = 1;
 		}	
 	}
+}

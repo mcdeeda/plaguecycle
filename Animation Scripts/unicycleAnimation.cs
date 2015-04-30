@@ -22,3 +22,4 @@ public class unicycleAnimation : MonoBehaviour {
 			speed = -1;
 		}	
 	}
+}
